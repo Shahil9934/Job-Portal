@@ -43,4 +43,4 @@ JWT – Authentication
 
 Author
 Shahil
-Frontend Developer | React.js | TypeScript | Redux Toolkit
+Frontend Developer | React.js | TypeScript | Redux query
