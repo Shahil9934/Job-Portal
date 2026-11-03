@@ -35,7 +35,7 @@ TypeScript – Type safety
 Redux Toolkit – Global state management
 RTK Query – API calls and caching
 React Router – Client-side routing
-Tailwind CSS – Responsive UI
+<!-- Tailwind CSS – Responsive UI -->
 Axios / REST API – API communication
 React Hook Form – Form handling
 Zod / Yup – Form validation
