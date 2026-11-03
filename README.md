@@ -41,6 +41,6 @@ Axios / REST API – API communication
 <!-- Zod / Yup – Form validation -->
 <!-- JWT – Authentication -->
 
-Author
+<!-- Author
 Shahil
-Frontend Developer | React.js | TypeScript | Redux
+Frontend Developer | React.js | TypeScript | Redux -->
