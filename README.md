@@ -37,10 +37,10 @@ RTK Query – API calls and caching
 React Router – Client-side routing
 <!-- Tailwind CSS – Responsive UI -->
 Axios / REST API – API communication
-React Hook Form – Form handling
+<!-- React Hook Form – Form handling -->
 <!-- Zod / Yup – Form validation -->
 <!-- JWT – Authentication -->
 
-Author
+<!-- Author
 Shahil
-Frontend Developer | React.js | TypeScript | Redux
+Frontend Developer | React.js | TypeScript | Redux -->
